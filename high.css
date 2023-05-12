@@ -1,0 +1,28 @@
+.header{ 
+    text-align: center;
+     background-color: antiquewhite;
+
+}
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:black;
+  }
+  
+  .flexbox> div {
+    
+    color:white;
+    width: 57px;
+    margin: 9px;
+    text-align: center;
+    line-height: 55px;
+    font-size: 20px;
+  }
+  .one{
+    background-color:green;
+
+    
+  }
+  .body{
+    border: 2px solid black;
+  }
